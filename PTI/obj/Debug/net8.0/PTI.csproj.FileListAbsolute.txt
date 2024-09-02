@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\obj\Debug\net8.0\PTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\obj\Debug\net8.0\PTI.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\obj\Debug\net8.0\PTI.AssemblyInfo.cs
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\obj\Debug\net8.0\PTI.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\bin\Debug\net8.0\PTI.exe
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\bin\Debug\net8.0\PTI.deps.json
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\bin\Debug\net8.0\PTI.runtimeconfig.json
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\bin\Debug\net8.0\PTI.dll
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\bin\Debug\net8.0\PTI.pdb
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\obj\Debug\net8.0\PTI.dll
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\obj\Debug\net8.0\refint\PTI.dll
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\obj\Debug\net8.0\PTI.pdb
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\obj\Debug\net8.0\PTI.genruntimeconfig.cache
+C:\Users\Juan\Documents\Algoritimos e Programas\PTI\obj\Debug\net8.0\ref\PTI.dll
